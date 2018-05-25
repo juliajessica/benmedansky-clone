@@ -107,6 +107,13 @@ summary {
   }
 }
 
+@media only screen and (max-width: 1024px) {
+  .nav-item {
+    padding-bottom: 28px !important;
+  }
+}
+
+
 @import url('https://fonts.googleapis.com/css?family=Tajawal:300');
 
 .body {
@@ -168,7 +175,13 @@ summary {
 
 
 .nav-item {
-  background-color: blue;
+  background-color: white;
+  max-width: 1011px;
+  margin: 0 auto;
+  /*position: relative;
+text-align: center;
+width: 100%;*/
+
 }
 
 .grid-images {
