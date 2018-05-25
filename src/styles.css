@@ -185,14 +185,20 @@ summary {
   justify-content: center;
 }
 
-.nav-bar-info {
-
+.nav-options {
+  display:flex;
+  justify-content: space-between;
+  flex-direction: row;
+  text-transform: uppercase;
 }
+
 
 #logo {
-  height: 230px;
+  height: 260px;
   width: auto;
+  margin-bottom: 20px;
 }
+
 
 .grid-images {
   background-color: grey;
