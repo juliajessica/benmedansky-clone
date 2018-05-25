@@ -121,22 +121,22 @@ summary {
 }
 
 @media only screen and (max-width: 640px) {
-  .nav-options:before {
-    position: absolute;
-    top: 50%;
-    right: .5em;
-    margin-top: -.45em;
-    font-size: 16px;
-    width: 16px;
-    height: 16px;
-    line-height: 16px;
-    font-style: normal;
-    font-weight: normal;
-    -webkit-font-smoothing: antialiased;
-    content: "<i class="fas fa-angle-down"></i>";
-    text-align: center;
-    display: inline-block;
-    vertical-align: middle;
+.nav-options:before {
+  position: absolute;
+  top: 50%;
+  right: .5em;
+  margin-top: -.45em;
+  font-size: 16px;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  content: "<i class="fas fa-angle-down"></i>";
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
   }
 }
 
@@ -160,10 +160,7 @@ summary {
   }
 }
 
-
-
-
-
+/*font*/
 @import url('https://fonts.googleapis.com/css?family=Tajawal:300');
 
 .body {
@@ -254,7 +251,6 @@ summary {
   margin-bottom: 20px;
 }
 
-
 .grid-images {
   background-color: grey;
   display:grid;
@@ -263,8 +259,15 @@ summary {
   /*2 rows*/
 }
 
+.box-image {
+  top: 0px;
+  left: 0px;
+  width: 383px;
+  height: 327px;
+}
+
 .img-gallery-item {
-  background-color: yellow;
+
 }
 
 .footer-item {
