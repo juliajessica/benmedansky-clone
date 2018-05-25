@@ -113,6 +113,24 @@ summary {
   }
 }
 
+@media only screen and (max-width: 640px) {
+  .nav-item {
+    padding: .25em .5em .33em !important;
+    border-width: 1px;
+  }
+}
+
+
+@media only screen and (max-width: 640px) {
+  .nav-bar-info {
+    border-color: rgba(0,0,0,0);
+    border-style: solid;
+    position: relative;
+    z-index: 100;
+  }
+}
+
+
 
 @import url('https://fonts.googleapis.com/css?family=Tajawal:300');
 
@@ -169,10 +187,9 @@ summary {
   height: 100%;
 }
 
-.none {
+/*.none {
   display:none;
-}
-
+}*/
 
 .nav-item {
   background-color: white;
@@ -190,8 +207,14 @@ summary {
   justify-content: space-between;
   flex-direction: row;
   text-transform: uppercase;
+  color: #636363;
+  padding: 0 .8em;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  font-family: Futura, sans-serif;
 }
-
 
 #logo {
   height: 260px;
