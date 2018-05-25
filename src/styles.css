@@ -225,9 +225,6 @@ summary {
   font-size: 17px;
   background-color: white;
 }
-.container {
-
-}
 
 .announcement-item {
   display:flex;
@@ -313,12 +310,11 @@ summary {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  /*grid-auto-rows: 300px;*/
   justify-content: center;
   grid-auto-flow: dense;
   position: relative;
   margin: auto;
-  max-width:1500px;
+  max-width:1090px;
 }
 
 .img-gallery-item {
@@ -327,36 +323,14 @@ summary {
   align-items: center;
 }
 
-.img-gallery-item img {
-  height: 335px;
-  /*width:300px;*/
-}
-
-.img-square {
-  /*width: 343px;*/
-  /*height: 306px;*/
-}
-
-.img-medium {
-  /*width: 383px;*/
-  /*height: 383px;*/
-}
-
-.img-wide {
-  /*width: 344px;
-  height: 257px;*/
-
-}
-
-.img-large {
-  /*width: 344px;*/
-  /*height: 428px;*/
-
+img {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
 }
 
 .footer-item {
   background-color: #fff;
-  /*width: 100%;*/
   height: 330px;
   color: #636363;
 }
