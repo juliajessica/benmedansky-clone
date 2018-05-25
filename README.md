@@ -5,7 +5,14 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
+![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen.png)
+![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen2.png)
+![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen3.png)
+![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/minimized.png)
+
 ## <span style="color:#74875d;">Description</span>
+
+_This webpage is a clone of Ben Medansky's ceramics. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
