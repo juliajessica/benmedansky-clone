@@ -101,6 +101,15 @@ summary {
 
 /*////////////////////////*/
 
+
+@media only screen and (max-width: 960px) {
+  body {
+    overflow: hidden;
+    padding: 50px;
+  }
+}
+
+
 @media screen and (max-width: 1024px) {
   .announcement p {
     font-size: 13px;
@@ -148,8 +157,6 @@ summary {
     margin-top: -.45em;
   }
 }
-
-
 
 @media only screen and (max-width: 640px) {
   .nav-bar-info {
@@ -252,18 +259,39 @@ summary {
 }
 
 .grid-images {
-  background-color: grey;
+
   display:grid;
   grid-gap: 1em;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   /*2 rows*/
 }
 
-.box-image {
-  top: 0px;
-  left: 0px;
+.img-size1 {
+  /*top: 313px;
+  left: 0px;*/
+  width: 343px;
+  height: 306px;
+}
+
+.img-size2 {
+  /*top: 0px;
+  left: 403px;*/
   width: 383px;
-  height: 327px;
+  height: 383px;
+}
+
+.img-size4 {
+  /*top: 363px;
+  left: 363px;*/
+  width: 344px;
+  height: 257px;
+}
+
+.img-size6 {
+  /*top: 640px;
+  left: 363px;*/
+  width: 344px;
+  height: 428px;
 }
 
 .img-gallery-item {
