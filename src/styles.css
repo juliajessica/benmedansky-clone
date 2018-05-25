@@ -1,0 +1,22 @@
+.grid {
+  display:grid;
+  display: 
+}
+
+.announcement-item {
+  position: relative;
+  background-color: #ffd175;
+  color:white;
+}
+
+.nav-item {
+  background-color: blue;
+}
+
+.img-gallery-item {
+  background-color: yellow;
+}
+
+.footer-item {
+  background-color: green;
+}
