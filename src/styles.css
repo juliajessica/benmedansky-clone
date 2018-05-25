@@ -114,11 +114,41 @@ summary {
 }
 
 @media only screen and (max-width: 640px) {
-  .nav-item {
+  .nav-parent {
     padding: .25em .5em .33em !important;
     border-width: 1px;
   }
 }
+
+@media only screen and (max-width: 640px) {
+  .nav-options:before {
+    position: absolute;
+    top: 50%;
+    right: .5em;
+    margin-top: -.45em;
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    font-style: normal;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    content: "<i class="fas fa-angle-down"></i>";
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .nav-options:before {
+    position: absolute;
+    top: 50%;
+    right: .5em;
+    margin-top: -.45em;
+  }
+}
+
 
 
 @media only screen and (max-width: 640px) {
@@ -129,6 +159,8 @@ summary {
     z-index: 100;
   }
 }
+
+
 
 
 
