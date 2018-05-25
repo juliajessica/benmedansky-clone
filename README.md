@@ -5,10 +5,10 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen.png)
-![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen2.png)
-![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen3.png)
-![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/minimized.png)
+<div style="width:50%; float:left;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen.png?raw=true)</div>
+<div style="width:50%; float:right;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen2.png?raw=true)</div>
+<div style="width:40%;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen3.png?raw=true)</div>
+<div style="width:40%;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/minimized.png?raw=true)</div>
 
 ## <span style="color:#74875d;">Description</span>
 
@@ -63,9 +63,10 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 | Webpack & CSS Style Loader |
 
 ### <span style="color:#74875d;">Specs</span>
-| Behavior | Input | Output |
-| :-------------     | :------------- | :------------- |
-| The program will  | Input: "" | Output:  |
+| Behavior |
+| :------------- | :------------- |
+| The webpage will display Grid and Flexbox features |
+| The user can adjust the screen size and see the websites responsiveness |
 
 ### <span style="color:#74875d;">License</span>
 
