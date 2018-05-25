@@ -5,14 +5,14 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-<div style="width:50%; float:left;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen.png?raw=true)</div>
-<div style="width:50%; float:right;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen2.png?raw=true)</div>
-<div style="width:40%;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/fullscreen3.png?raw=true)</div>
-<div style="width:40%;">![Application Screenshot](https://github.com/juliajessica/benmedansky-clone/blob/master/src/img/minimized.png?raw=true)</div>
+<div style="width:100%;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/fullscreen.png?raw=true)</div>
+<div style="width:60%; float:left; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/minimized.png?raw=true)</div>
+<div style="width:40%; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/mobile.png?raw=true)</div>
+
 
 ## <span style="color:#74875d;">Description</span>
 
-_This webpage is a clone of Ben Medansky's ceramics. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
+_This webpage is a clone of Wolf Ceramics. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
