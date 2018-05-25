@@ -101,15 +101,15 @@ summary {
 
 /*////////////////////////*/
 
-@media screen and (max-width: 1024px) {
-  .announcement p {
-    font-size: 13px;
-  }
-}
-
 @media only screen and (max-width: 2024px) {
   .nav-item {
     padding-bottom: 40px !important;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .announcement p {
+    font-size: 13px;
   }
 }
 
@@ -121,7 +121,7 @@ summary {
 }
 
 @media only screen and (max-width: 640px) {
-.nav-options:before {
+.nav-options::before {
   position: absolute;
   top: 50%;
   right: .5em;
@@ -140,14 +140,59 @@ summary {
   }
 }
 
+.nav-options select {
+  display: none;
+}
+
 @media only screen and (max-width: 640px) {
-  .nav-options:before {
+  .nav-options select {display: show;}
+  .nav-options select {
+  font-size: 18px;
+  color: #0a0a0a;
+  margin: 0;
+  width: 100%;
+  border: solid 0px transparent;
+  background-color: transparent;
+  border-radius: 0;
+  text-indent: .1px;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  position: relative;
+  z-index: 1;
+  font-family: futura-pt;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1em;
+  }
+}
+
+
+
+
+@media only screen and (max-width: 640px) {
+  .nav-options::before {
     position: absolute;
     top: 50%;
     right: .5em;
     margin-top: -.45em;
   }
 }
+
+@media only screen and (max-width: 640px) {
+  .nav-options p{display: none;}
+  .nav-options::after {
+    position: absolute;
+    top: 50%;
+    right: .5em;
+    margin-top: -.45em;
+  }
+}
+
 
 @media only screen and (max-width: 640px) {
   .nav-bar-info {
@@ -157,6 +202,13 @@ summary {
     z-index: 100;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  .nav-tem, .content-images, .footer-item {
+    padding: 20px !important;
+  }
+}
+
 
 /*font*/
 @import url('https://fonts.googleapis.com/css?family=Tajawal:300');
@@ -276,8 +328,8 @@ summary {
 }
 
 .img-gallery-item img {
-  height: 300px;
-  width:320px;
+  height: 330px;
+  width:360px;
 
 }
 
