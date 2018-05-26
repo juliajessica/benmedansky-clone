@@ -5,14 +5,14 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-<div style="width:55%; float:left;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/fullscreen.png)</div>
+<div style="width:55%; float:left;">![Application Screenshot](src/img/fullscreen.png)</div>
 
-<div style="width:43%; float:right;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/mobile.png)</div>
-<div style="width:55%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/minimized.png)</div>
+<div style="width:43%; float:right;">![Application Screenshot](src/img/mobile.png)</div>
+<div style="width:55%;">![Application Screenshot](src/img/minimized.png)</div>
 
 
 ## <span style="color:#74875d;">Cloned Version</span>
-<div style="width:100%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/clone-version.png)</div>
+<div style="width:100%;">![Application Screenshot](src/img/clone-version.png)</div>
 
 ## <span style="color:#74875d;">Description</span>
 
@@ -67,10 +67,8 @@ _None_
 | Webpack & CSS Style Loader |
 
 ### <span style="color:#74875d;">Specs</span>
-| Behavior |
-| :------------ | :------------ |
-| The webpage displays CSS Grid and Flexbox features
-| The user can adjust the screen size and see the websites responsiveness |
+* The webpage displays CSS Grid and Flexbox features
+* The user can adjust the screen size and see the websites responsiveness
 
 ### <span style="color:#74875d;">License</span>
 
