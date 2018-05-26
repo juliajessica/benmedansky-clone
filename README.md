@@ -5,12 +5,9 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-<div style="width:55%; float:left;">
-![Screenshot](src/img/fullscreen.png)</div>
-
-<div style="width:43%; float:right;">![Screenshot](src/img/mobile.png)</div>
-<div style="width:55%;">![Application Screenshot](src/img/minimized.png)</div>
-
+![Screenshot](src/img/fullscreen.png)
+![Screenshot](src/img/mobile.png)
+![Application Screenshot](src/img/minimized.png)
 
 ## <span style="color:#74875d;">Cloned Version</span>
 ![Screenshot](src/img/clone-version.png)
