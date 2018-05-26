@@ -11,12 +11,12 @@
 <div style="width:55%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/minimized.png)</div>
 
 
-
 ## <span style="color:#74875d;">Cloned Version</span>
 <div style="width:100%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/clone-version.png)</div>
+
 ## <span style="color:#74875d;">Description</span>
 
-_This webpage is a clone of <a href=""http://www.wolfceramics.com/>Wolf Ceramics</a>. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
+_This webpage is a clone of <a href="http://www.wolfceramics.com/">Wolf Ceramics</a>. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
