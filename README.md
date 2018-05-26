@@ -8,7 +8,6 @@
 ![Screenshot](src/img/fullscreen.png)
 ![Screenshot](src/img/mobile.png)
 ![Screenshot](src/img/minimized.png)
-
 ## <span style="color:#74875d;">Cloned Version</span>
 ![Screenshot](src/img/clone-version.png)
 
