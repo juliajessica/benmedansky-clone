@@ -5,9 +5,9 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-![Screenshot](src/img/fullscreen.png | =250x250)
-![Screenshot](src/img/mobile.png | =250x250)
-![Screenshot](src/img/minimized.png | =250x250)
+![Screenshot](src/img/fullscreen.png){:height="50%" width="50%"}
+![Screenshot](src/img/mobile.png){:height="50%" width="50%"}
+![Screenshot](src/img/minimized.png){:height="50%" width="50%"}
 
 ## <span style="color:#74875d;">Cloned Version</span>
 ![Screenshot](src/img/clone-version.png)
