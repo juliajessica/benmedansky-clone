@@ -5,13 +5,15 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-<div style="width:100%;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/fullscreen.png?raw=true)</div>
-<div style="width:60%; float:left; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/minimized.png?raw=true)</div>
-<div style="width:40%; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/mobile.png?raw=true)</div>
+<div style="width:55%; float:left;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/fullscreen.png)</div>
+
+<div style="width:43%; float:right;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/mobile.png)</div>
+<div style="width:55%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/minimized.png)</div>
+
 
 
 ## <span style="color:#74875d;">Cloned Version</span>
-<div style="width:50%;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/mobile.png?raw=true)</div>
+<div style="width:100%;">![Application Screenshot](https://raw.githubusercontent.com/juliajessica/wolfceramics-clone/master/src/img/clone-version.png)</div>
 ## <span style="color:#74875d;">Description</span>
 
 _This webpage is a clone of <a href=""http://www.wolfceramics.com/>Wolf Ceramics</a>. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
@@ -66,7 +68,7 @@ _None_
 
 ### <span style="color:#74875d;">Specs</span>
 | Behavior |
-| :------------- | :------------- |
+| :------------ | :------------ |
 | The webpage displays CSS Grid and Flexbox features
 | The user can adjust the screen size and see the websites responsiveness |
 
