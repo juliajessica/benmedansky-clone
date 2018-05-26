@@ -236,8 +236,7 @@ summary {
 }
 
 .announcement-item {
-  display:flex;
-  align-items: center;
+  text-align: center;
   padding: 10px 50px 10px 50px;
   background-color: #ffd175;
   color:white;
