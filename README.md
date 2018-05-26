@@ -5,14 +5,15 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-<div style="width:55%; float:left;">![Application Screenshot](src/img/fullscreen.png)</div>
+<div style="width:55%; float:left;">
+![Screenshot](src/img/fullscreen.png)</div>
 
-<div style="width:43%; float:right;">![Application Screenshot](src/img/mobile.png)</div>
+<div style="width:43%; float:right;">![Screenshot](src/img/mobile.png)</div>
 <div style="width:55%;">![Application Screenshot](src/img/minimized.png)</div>
 
 
 ## <span style="color:#74875d;">Cloned Version</span>
-<div style="width:100%;">![Application Screenshot](src/img/clone-version.png)</div>
+![Screenshot](src/img/clone-version.png)
 
 ## <span style="color:#74875d;">Description</span>
 
