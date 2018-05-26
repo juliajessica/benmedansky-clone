@@ -176,6 +176,15 @@ summary {
   display: inline-block;
   vertical-align: middle;
   }
+  .flex-list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .left-footer-list, .right-footer-list{
+    padding: 0px;
+    text-align: center;
+  }
 }
 
 @media only screen and (max-width: 640px) {
@@ -351,8 +360,13 @@ img {
   align-items: stretch;
 }
 
+.left-footer-list {
+  align-self: flex-start;
+}
+
 .left-footer-list, .right-footer-list{
-  padding: 90px;
+  /*padding: 90px;*/
+
   text-align: center;
 }
 
@@ -360,5 +374,4 @@ img {
   padding: 14px;
   font-size: 13px;
   font-weight: bold;
-
 }
