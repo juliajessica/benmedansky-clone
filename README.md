@@ -9,7 +9,8 @@
 <div style="width:60%; float:left; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/minimized.png?raw=true)</div>
 <div style="width:40%; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/mobile.png?raw=true)</div>
 
-
+_Cloned Version_
+<div style="width:40%; float:right;">![Application Screenshot](https://github.com/juliajessica/wolfceramics-clone/blob/master/src/img/mobile.png?raw=true)</div>
 ## <span style="color:#74875d;">Description</span>
 
 _This webpage is a clone of <a href=""http://www.wolfceramics.com/>Wolf Ceramics</a>. I really love the way he displays his original pieces and showcases them on his website. I use Grid and Flex-boxes to mimic his original website._
@@ -54,7 +55,7 @@ _This project uses Webpack to bundle and minify the code. The test runner is Kar
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
-_Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work. :+1:_
+_None_
 
 ## <span style="color:#74875d;">Technologies Used</span>
 
