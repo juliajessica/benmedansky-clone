@@ -181,7 +181,7 @@ summary {
     align-items: center;
     flex-direction: column;
   }
-  .left-footer-list, .right-footer-list{
+  .footer-item .left-footer-list, .footer-item .right-footer-list{
     padding: 0px;
     text-align: center;
   }
@@ -360,13 +360,8 @@ img {
   align-items: stretch;
 }
 
-.left-footer-list {
-  align-self: flex-start;
-}
-
 .left-footer-list, .right-footer-list{
-  /*padding: 90px;*/
-
+  padding: 90px;
   text-align: center;
 }
 
