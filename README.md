@@ -9,8 +9,8 @@
 https://juliajessica.github.io/wolfceramics-clone/
 
 | Mobile | Tablet | Desktop |
-| ------------- | ------------- |
-| ![Screenshot](src/img/mobile1.png) | ![Screenshot](src/img/tablet1.png) | ![Screenshot](src/img/desktop1.png)|
+| ------------- | ------------- | ------------- |
+| ![Screenshot](src/img/mobile1.png) |  ![Screenshot](src/img/tablet1.png) | ![Screenshot](src/img/desktop1.png)|
 
 | <span style="color:#74875d;">Full Screen</span> |
 | ------------- |
