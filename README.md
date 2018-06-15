@@ -5,14 +5,16 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
+##Live site
+https://juliajessica.github.io/wolfceramics-clone/
 
-| Mobile | Tablet and Desktop |
+| Mobile | Tablet | Desktop |
 | ------------- | ------------- |
-| ![Screenshot](src/img/mobile.png) | ![Screenshot](src/img/fullscreen.png)  ![Screenshot](src/img/minimized.png)|
+| ![Screenshot](src/img/mobile1.png) | ![Screenshot](src/img/tablet1.png) | ![Screenshot](src/img/desktop1.png)|
 
-| <span style="color:#74875d;">Cloned Version</span> |
+| <span style="color:#74875d;">Full Screen</span> |
 | ------------- |
-| ![Screenshot](src/img/clone-version.png) |
+| ![Screenshot](src/img/website1.png) |
 
 ## <span style="color:#74875d;">Description</span>
 
