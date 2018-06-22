@@ -65,7 +65,7 @@ _None_
 
 | Libraries and Frameworks |
 | :------------ |
-| HTML5 and CSS3 |
+| HTML5 & CSS3 |
 | Webpack & CSS Style Loader |
 
 
