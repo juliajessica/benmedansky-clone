@@ -5,8 +5,7 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-##Live site
-https://juliajessica.github.io/wolfceramics-clone/
+## Link to live site: https://juliajessica.github.io/wolfceramics-clone/
 
 | Mobile | Tablet | Desktop |
 | ------------- | ------------- | ------------- |
@@ -18,7 +17,7 @@ https://juliajessica.github.io/wolfceramics-clone/
 
 ## <span style="color:#74875d;">Description</span>
 
-_This webpage is a clone of <a href="http://www.wolfceramics.com/">Wolf Ceramics</a>. I really love the way this artist displays their original pieces and showcases them on their website. I use Grid and Flex-boxes to mimic his original website._
+_This clone is a single page application of <a href="http://www.wolfceramics.com/">Wolf Ceramics</a>. I really love the way this artist displays their original pieces and showcases them on their website. I use Grid and Flex-boxes to mimic his original website._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
