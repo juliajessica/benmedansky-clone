@@ -17,7 +17,7 @@
 
 ## <span style="color:#74875d;">Description</span>
 
-_This clone is a single page application of <a href="http://www.wolfceramics.com/">Wolf Ceramics</a>. I really love the way this artist displays their original pieces and showcases them on their website. I use Grid and Flex-boxes to mimic his original website._
+_This clone is a single page application of <a href="http://www.wolfceramics.com/">Wolf Ceramics</a>. I really love the way this artist displays their original pieces and showcases them on their website. I use CSS3 grid and flex-boxes to mimic the original website._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
@@ -63,9 +63,11 @@ _None_
 
 ## <span style="color:#74875d;">Technologies Used</span>
 
-| Front end dependencies |
+| Libraries and Frameworks |
 | :------------ |
+| HTML5 and CSS3 |
 | Webpack & CSS Style Loader |
+
 
 ### <span style="color:#74875d;">Specs</span>
 * The webpage displays CSS Grid and Flexbox features
@@ -78,5 +80,3 @@ Copyright (c) 2018 ****_Julia Sheremet_****
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
